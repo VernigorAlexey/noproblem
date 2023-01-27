@@ -9,9 +9,7 @@ int m = 2;
 
 if (n >= m)
 {
-    while (m <= n)
-
-
+         while (m <= n)
     {
         if (m <= n)
         {
