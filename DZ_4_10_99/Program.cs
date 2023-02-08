@@ -6,7 +6,7 @@ Console.Write("Введите второе число отрезка: ");
 int b = int.Parse(Console.ReadLine());  // 99
 int count = 0;
 
-for (int i = a; i < b+1; i++)
+for (int i = a; i <= b; i++)
 {
 
     count++;
