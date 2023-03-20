@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Показать натуральные числа от M до N, N и M заданы
 Console.WriteLine("Введите начальное значение M:");
 int m = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите конечное значение N:");
